@@ -3,3 +3,4 @@ numpy==1.26.3
 opencv-contrib-python==4.9.0.80
 matplotlib==3.8.3
 object-detection==0.0.3
+protoc==3.11.4

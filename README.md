@@ -24,7 +24,7 @@ Then it will ask you for what camera it program shall use. After selecting the d
 
 The used model was trained by transfering knowledge from another model. Then from that point onwards it was custom trained with [**this dataset**](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) using only 2000 steps to train it. In the future I will train it further in order to improve its performance
 
-The [**jupyter notebook**](https://github.com/joaodrmacas/carPlateDetector/model/CarPlateDetector.ipynb) explains how to setup the model training with steps to follow.
+The [**jupyter notebook**](https://github.com/joaodrmacas/carPlateDetector/blob/main/model/CarPlateDetector.ipynb) explains how to setup the model training with steps to follow.
 
 ## Examples
 
